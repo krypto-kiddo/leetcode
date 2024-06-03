@@ -17,5 +17,5 @@ class Solution:
 ```
 <hr>
 <h2>Result</h2>
-![image](https://github.com/krypto-kiddo/leetcode/assets/97212160/2b7d4722-2d25-4de0-8821-4319ea97c811)
+<img src = "https://github.com/krypto-kiddo/leetcode/assets/97212160/2b7d4722-2d25-4de0-8821-4319ea97c811">
 
